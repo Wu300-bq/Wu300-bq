@@ -4,12 +4,12 @@
 <h3 align="center">A Computer Science undergraduate (Computer Network & Security) at UTM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Security+Enthusiast;Learner+of+C%2B%2B+and+Python;Love+Drawing+%26+Sports&center=true&width=500&height=45">
+  < img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Security+Enthusiast;Learner+of+C%2B%2B+and+Python;Love+Drawing+%26+Sports&center=true&width=500&height=45">
 </p >
 
 <p align="center">
 <a href=" ">
-<img src="https://komarev.com/ghpvc/?username=Wu300-bq&label=Profile%20views&color=0e75b6&style=flat" alt="Wu300-bq" />
+< img src="https://komarev.com/ghpvc/?username=Wu300-bq&label=Profile%20views&color=0e75b6&style=flat" alt="Wu300-bq" />
 </a >
 </p >
 
