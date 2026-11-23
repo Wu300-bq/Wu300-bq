@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href=" ">
-< img src="https://komarev.com/ghpvc/?username=Wu300-bq&label=Profile%20views&color=0e75b6&style=flat" alt="Wu300-bq" />
+<img src="https://komarev.com/ghpvc/?username=Wu300-bq&label=Profile%20views&color=0e75b6&style=flat" alt="Wu300-bq" />
 </a >
 </p >
 
